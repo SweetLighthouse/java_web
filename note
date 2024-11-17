@@ -1,0 +1,4 @@
+tx1 
+nếu làm jpa, hibernate thì pahi3 cấu hình ánh xạ ở đâu, chỉ ra.
+mô tả câu hình tương đương như jdbc trong công nghệ mình dùng. nó đơn giản hơn nhiều.
+tìm ra phương thức lấy về nhiều tập kết quả lưu trự trong arraylist trong jpa.
